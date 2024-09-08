@@ -1,0 +1,18 @@
+#root {
+    background-color: rgb(207, 72, 198);
+    padding: 1px;
+    border: 1px solid burlywood;
+    border-radius: 2px;
+}
+
+.tweet{
+    background-color: lightblue;
+    margin: 1px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.tweet p {
+    margin-top: 30px;
+    border-bottom: 1px solid peachpuff;
+}
